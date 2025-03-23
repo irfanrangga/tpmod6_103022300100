@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul6\tpmodul6\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\tpmodul6\tpmodul6\.editorconfig" />
+  </ItemGroup>
+
 </Project>

@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Irfan Rangga\\OneDrive\\Kuliah\\Praktikum\\Konstruksi PL\\tpmodul6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24957C99-2789-40D0-927A-5E70CFDE9BA9}|tpmodul6\\tpmodul6.csproj|c:\\users\\irfan rangga\\onedrive\\kuliah\\praktikum\\konstruksi pl\\tpmodul6\\tpmodul6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24957C99-2789-40D0-927A-5E70CFDE9BA9}|tpmodul6\\tpmodul6.csproj|solutionrelative:tpmodul6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24957C99-2789-40D0-927A-5E70CFDE9BA9}|tpmodul6\\tpmodul6.csproj|c:\\users\\irfan rangga\\onedrive\\kuliah\\praktikum\\konstruksi pl\\tpmodul6\\tpmodul6\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24957C99-2789-40D0-927A-5E70CFDE9BA9}|tpmodul6\\tpmodul6.csproj|solutionrelative:tpmodul6\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24957C99-2789-40D0-927A-5E70CFDE9BA9}|tpmodul6\\tpmodul6.csproj|c:\\users\\irfan rangga\\onedrive\\kuliah\\praktikum\\konstruksi pl\\tpmodul6\\tpmodul6\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24957C99-2789-40D0-927A-5E70CFDE9BA9}|tpmodul6\\tpmodul6.csproj|solutionrelative:tpmodul6\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Irfan Rangga\\OneDrive\\Kuliah\\Praktikum\\Konstruksi PL\\tpmodul6\\tpmodul6\\Program.cs",
-              "RelativeDocumentMoniker": "tpmodul6\\Program.cs",
-              "ToolTip": "C:\\Users\\Irfan Rangga\\OneDrive\\Kuliah\\Praktikum\\Konstruksi PL\\tpmodul6\\tpmodul6\\Program.cs",
-              "RelativeToolTip": "tpmodul6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "C:\\Users\\Irfan Rangga\\OneDrive\\Kuliah\\Praktikum\\Konstruksi PL\\tpmodul6\\tpmodul6\\MainClass.cs",
+              "RelativeDocumentMoniker": "tpmodul6\\MainClass.cs",
+              "ToolTip": "C:\\Users\\Irfan Rangga\\OneDrive\\Kuliah\\Praktikum\\Konstruksi PL\\tpmodul6\\tpmodul6\\MainClass.cs",
+              "RelativeToolTip": "tpmodul6\\MainClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T18:51:45.566Z",
+              "WhenOpened": "2025-03-23T19:18:59.374Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SayaTubeVideo.cs",
+              "DocumentMoniker": "C:\\Users\\Irfan Rangga\\OneDrive\\Kuliah\\Praktikum\\Konstruksi PL\\tpmodul6\\tpmodul6\\SayaTubeVideo.cs",
+              "RelativeDocumentMoniker": "tpmodul6\\SayaTubeVideo.cs",
+              "ToolTip": "C:\\Users\\Irfan Rangga\\OneDrive\\Kuliah\\Praktikum\\Konstruksi PL\\tpmodul6\\tpmodul6\\SayaTubeVideo.cs",
+              "RelativeToolTip": "tpmodul6\\SayaTubeVideo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:59:03.437Z"
             }
           ]
         }
