@@ -15,6 +15,14 @@ namespace tpmodul6
 
         public SayaTubeVideo(string title)
         {
+            if (string.IsNullOrEmpty(title))
+            {
+                throw new ArgumentException("Judul video tidak boleh kosong");
+            }
+            if (title.Length > 100)
+            {
+                throw new ArgumentException("Judul video tidak boleh lebih dari 100 karakter");
+            }
             this.title = title;
             this.playCount = 0;
             this.id = rand.Next(10000, 99999);
@@ -22,7 +30,21 @@ namespace tpmodul6
 
         public void IncreasePlayCount(int angka)
         {
-            playCount += angka;
+            if (angka > 10000000)
+            {
+                throw new ArgumentException("Penambahan play count maksimal 10.000.000");
+            }
+            try
+            {
+                checked
+                {
+                    playCount += angka;
+                }
+            }
+            catch (OverflowException)
+            {
+                Console.WriteLine("Terjadi overflow! Play count tidak dapat melebihi batas integer.");
+            }
         }
 
         public void PrintVideoDetails()
